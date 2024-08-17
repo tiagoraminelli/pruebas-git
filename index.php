@@ -1,3 +1,9 @@
+<?php
+echo "pruebas tecnicas para la utilizacion del versionado de git";
+
+$dia = time();
+echo $dia;
+?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
