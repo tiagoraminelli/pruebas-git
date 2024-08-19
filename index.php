@@ -1,8 +1,6 @@
 <?php
-echo "pruebas tecnicas para la utilizacion del versionado de git";
-
-$dia = time();
-echo $dia;
+echo "pruebas tecnicas para la utilizacion del versionado de git"."<br>";
+echo "parte 2";
 ?>
 <!DOCTYPE html>
 <html lang="en">
