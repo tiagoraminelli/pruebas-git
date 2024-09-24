@@ -3,3 +3,6 @@ public/
 
 #ignoramos la carpeta Public
 bd/
+
+#ignoramos la carpeta Public
+assets/
