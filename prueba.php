@@ -1,3 +1,3 @@
 <?php
-echo "pruebas teorias"
+echo "pruebas teorias";
 ?>
