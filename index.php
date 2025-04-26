@@ -24,8 +24,17 @@
             <div class="main">
                 <h3>El Comando Git: -git branch-</h3>
                 <p>te permite ver tu rama actualo</p>
+                <h3>El Comando Git: -$ git branch -m rama1 ramita1-</h3>
+                <p>te permite cambiar el nombre de la rama actual</p>
+                <h3>El Comando Git: -$ git checkout ramita1-<h3>
+                <p>te permite cambiar de rama</p>
+                <h3>El Comando Git: -$ git branch -d ramita1-</h3>
+                <p>te permite borrar una rama</p>
             </div>
         </div>
+    </section>
+    <section class="container">
+        
     </section>
     
 </body>
