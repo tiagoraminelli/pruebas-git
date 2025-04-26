@@ -21,7 +21,9 @@
                 <h2>Pruebas de Git Manejo de ramas para controlor de versionado</h2>
                 <p>Esto es una prueba de Git para controlor de versionado</p>
             </div>
-            <div class="main">
+            <div class="box">
+            <h3>El Comando Git: -$ git clone-</h3>
+            <p>te permite clonar un repositorio</p>
                 <h3>El Comando Git: -git branch-</h3>
                 <p>te permite ver tu rama actualo</p>
                 <h3>El Comando Git: -$ git branch -m rama1 ramita1-</h3>
@@ -30,6 +32,10 @@
                 <p>te permite cambiar de rama</p>
                 <h3>El Comando Git: -$ git branch -d ramita1-</h3>
                 <p>te permite borrar una rama</p>
+                <h3>El Comando Git: -$ git merge ramita1-</h3>
+                <p>te permite fusionar dos ramas</p>
+                <h3>El Comando Git: -$ git pull-</h3>
+                <p>te permite actualizar tu repositorio</p>
             </div>
         </div>
     </section>
