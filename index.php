@@ -21,6 +21,10 @@
                 <h2>Pruebas de Git Manejo de ramas para controlor de versionado</h2>
                 <p>Esto es una prueba de Git para controlor de versionado</p>
             </div>
+            <div class="main">
+                <h3>El Comando Git: -git branch-</h3>
+                <p>te permite ver tu rama actualo</p>
+            </div>
         </div>
     </section>
     
